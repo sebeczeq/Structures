@@ -1,0 +1,18 @@
+﻿  Menu.cpp
+  Heap.cpp
+c:\users\seba\desktop\studia\projects\struktury danych projekt\struktury danych projekt\heap.cpp(7): warning C4018: '<': signed/unsigned mismatch
+c:\users\seba\desktop\studia\projects\struktury danych projekt\struktury danych projekt\heap.cpp(14): warning C4018: '<': signed/unsigned mismatch
+c:\users\seba\desktop\studia\projects\struktury danych projekt\struktury danych projekt\heap.cpp(57): warning C4309: '=': truncation of constant value
+c:\users\seba\desktop\studia\projects\struktury danych projekt\struktury danych projekt\heap.cpp(58): warning C4309: '=': truncation of constant value
+c:\users\seba\desktop\studia\projects\struktury danych projekt\struktury danych projekt\heap.cpp(59): warning C4309: '=': truncation of constant value
+c:\users\seba\desktop\studia\projects\struktury danych projekt\struktury danych projekt\heap.cpp(68): warning C4018: '<': signed/unsigned mismatch
+c:\users\seba\desktop\studia\projects\struktury danych projekt\struktury danych projekt\heap.cpp(96): warning C4018: '<': signed/unsigned mismatch
+c:\users\seba\desktop\studia\projects\struktury danych projekt\struktury danych projekt\heap.cpp(108): warning C4018: '<': signed/unsigned mismatch
+c:\users\seba\desktop\studia\projects\struktury danych projekt\struktury danych projekt\heap.cpp(127): warning C4018: '<': signed/unsigned mismatch
+c:\users\seba\desktop\studia\projects\struktury danych projekt\struktury danych projekt\heap.cpp(140): warning C4018: '>=': signed/unsigned mismatch
+c:\users\seba\desktop\studia\projects\struktury danych projekt\struktury danych projekt\heap.cpp(150): warning C4018: '<': signed/unsigned mismatch
+c:\users\seba\desktop\studia\projects\struktury danych projekt\struktury danych projekt\heap.cpp(159): warning C4018: '<': signed/unsigned mismatch
+c:\users\seba\desktop\studia\projects\struktury danych projekt\struktury danych projekt\heap.cpp(178): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Struktury Danych Projekt.vcxproj -> C:\Users\Seba\Desktop\Studia\Projects\Struktury Danych Projekt\Debug\Struktury Danych Projekt.exe
+  Struktury Danych Projekt.vcxproj -> C:\Users\Seba\Desktop\Studia\Projects\Struktury Danych Projekt\Debug\Struktury Danych Projekt.pdb (Partial PDB)
